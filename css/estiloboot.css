@@ -1,0 +1,38 @@
+.container-fluid{
+	background: #e1944e;
+}
+h1{
+	text-align: center;
+	color: #0b05fc;
+	font-weight: bold;
+	font-family: Gentleman Caller;
+	text-shadow:2px 2px 5px white;
+	margin-top: 10px
+}
+h2{
+	text-align: center;
+	color: #21f90b;
+	font-family: Franklin Gothic;
+	text-shadow: 2px 2px 5px #ff031b;
+	margin-top: 10px;
+}
+.bienvenida{
+	text-align: center;
+	color: #f9f9fb;
+	font-family: Franklin Gothic;
+	text-shadow: 2px 2px 5px #1bfaed;
+}
+aside{
+	background: black;
+	border-radius: 10px;
+}
+figure img{
+	border-radius: 30px;
+	height: 180px;
+	width: 250px;
+}
+#enviard{
+	color: blue;
+	background-color: #05fa7e;
+	font-size: 18;
+}
